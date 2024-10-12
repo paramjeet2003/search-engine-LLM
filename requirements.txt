@@ -2,3 +2,6 @@ streamlit
 langchain
 langchain_groq
 langchain_community
+arxiv
+wikipedia
+duckduckgo-search
